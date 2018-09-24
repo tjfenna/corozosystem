@@ -24,3 +24,6 @@ module.exports = {
 {
     "plugins": ["thePlugin"]
 }
+{
+    plugins: ["collapsible-chapters"]
+}
